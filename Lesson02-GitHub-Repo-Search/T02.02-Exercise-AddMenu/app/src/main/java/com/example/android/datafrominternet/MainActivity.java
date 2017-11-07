@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         mSearchResultsTextView = (TextView) findViewById(R.id.tv_github_search_results_json);
     }
 
-    // Do 2 - 7 in menu.xml ///////////////////////////////////////////////////////////////////////
+    // Do 2 - 7 in main.xml ///////////////////////////////////////////////////////////////////////
     // TODO (2) Create a menu xml called 'main.xml' in the res->menu folder
     // TODO (3) Add one menu item to your menu
     // TODO (4) Give the menu item an id of @+id/action_search
